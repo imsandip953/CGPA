@@ -1,2 +1,2 @@
-Here is the live page link 
-https://imsandip953.github.io/CGPA/
+# *Here is the live page link* 
+[CGPA Calculator](https://imsandip953.github.io/CGPA/)
